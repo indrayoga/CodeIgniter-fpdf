@@ -1,5 +1,5 @@
 # CodeIgniter-fpdf
-This is a pdf generator for codeigniter, based on fpdf and with some scripts extension from [fpdf.org] www.fpdf.org
+This is a pdf generator for codeigniter, based on fpdf and with some scripts extension from [fpdf.org] (www.fpdf.org)
 
 #Installations
 1. copy third-party folder to your application/third-party
@@ -32,9 +32,9 @@ class pdfgen extends CI_Controller {
 	}
 }
 ```
-##tutorial
+#Tutorial
 
-## License
+# License
 
 * The fpdf and the extension scripts are license under: FPDF, see [fpdf.org] www.fpdf.org.
 * The library file are under: [MIT](license.md).
