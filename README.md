@@ -33,7 +33,7 @@ class pdfgen extends CI_Controller {
 }
 ```
 #Tutorial
-
+[http://www.dibalikpapan.com/2017/01/05/tutorial-mypdf/](dibalikpapan.com)
 # License
 
 * The fpdf and the extension scripts are license under: FPDF, see [fpdf.org] www.fpdf.org.
